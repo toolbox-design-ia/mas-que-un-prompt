@@ -1,1 +1,7 @@
-El código completo de este proyecto se consolida con la edición final del libro (el capítulo describe el proceso; aquí vivirá el resultado ejecutable).
+# Chapter 16 project — CSV report tool
+
+CLI interface, validation BEFORE processing, markdown report as a reproducible artifact.
+
+```
+python csv_report.py gastos.csv --group categoria --amount importe
+```

@@ -1,0 +1,19 @@
+{
+  "base_dir": "~/Documentos/Archivo",
+  "rules": [
+    {
+      "match": "factura|invoice",
+      "folder": "Facturas/{year}",
+      "rename": "{date}_{original}.pdf"
+    },
+    {
+      "match": "contrato|contract",
+      "folder": "Contratos",
+      "rename": "{date}_{original}.pdf"
+    },
+    {
+      "match": "manual|guia",
+      "folder": "Manuales"
+    }
+  ]
+}
