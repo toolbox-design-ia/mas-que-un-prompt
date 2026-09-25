@@ -2,7 +2,7 @@
 
 # Plus qu'un prompt — Matériel du livre
 
-Dépôt companion de **« Más que un prompt »** (Henry Ramírez Reyes, Studio35).
+Dépôt companion de **« Más que un prompt »** (Henry Ramírez Reyes, Toolbox Design).
 
 Le livre enseigne le terminal, Git et le cycle de travail avec l'IA : cloner ce dépôt est une pratique réelle du chapitre 7. Fragments longs dans `capitulos/`; les trois projets du livre dans `proyectos/`.
 
